@@ -1,6 +1,6 @@
 {
     "ABOUT": "Hi, I'm a bot created to tell you about Bernard, a self-taught full-stack developer and UX/UI Design Strategist.",
-    "HI": "Cool, glad we're getting finally able to communicate! Do you want to let Bernard know we're talking right now? %[Tell her](postback:twitter) If your confused just type HELP",
+    "HI": "Cool, glad we're finally able to communicate! Do you want to let Bernard know we're talking right now? %[Tell her](postback:twitter) If your confused just type HELP",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
