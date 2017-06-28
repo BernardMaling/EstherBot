@@ -3,6 +3,7 @@
     "HI": "Cool, glad we're finally able to communicate! Do you want to let Bernard know we're talking right now? %[Let him know](postback:twitter) If your confused just type HELP",
     "TELL HIM": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Contact Bernard]()",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "RESUME: " "Sure, here you go! %[Resume]",
     "CONNECT ME": "",
     "DISCONNECT": "BEEP BEEP, operations back online."
 }
